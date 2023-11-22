@@ -1,4 +1,7 @@
 window.onload = function () {
+
+    console.log('Хорошего дня!');
+
     let inputName = document.getElementById('input-name');
     let inputUsername = document.getElementById('input-username');
     let checkbox = document.getElementById('checkbox');
